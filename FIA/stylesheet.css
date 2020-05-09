@@ -41,7 +41,7 @@ h1{
   font-size: 2em;
 }
 div{
-    position: fixed;
+    position: relative;
     left: 50%;
 }
 table, th, td {
